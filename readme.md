@@ -14,7 +14,7 @@ Welcome to my blog:  [Demian.wang](http://demian.wang/)
 
 **Recent Learn:**
 
-<code>c++</code>
+<code>rust</code>
 <code>wysiwyw editor</code>
 
 **Github Stats**
