@@ -1,5 +1,3 @@
-### Hi 👋
-
 **Interests:**
 
 <code>typescript</code>
