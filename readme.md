@@ -1,7 +1,5 @@
 ### Hi 👋
 
-Welcome to my blog:  [Demian.wang](http://demian.wang/)
-
 **Interests:**
 
 <code>typescript</code>
@@ -10,12 +8,12 @@ Welcome to my blog:  [Demian.wang](http://demian.wang/)
 <code>nodejs</code>
 <code>ramda</code>
 <code>single-spa</code>
-
+<code>wysiwyw editor</code>
 
 **Recent Learn:**
 
 <code>rust</code>
-<code>wysiwyw editor</code>
+<code>systems programming</code>
 
 **Github Stats**
 
