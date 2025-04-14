@@ -10,5 +10,4 @@
 
 **Recent Learn:**
 
-<code>rust</code>
-<code>systems programming</code>
+<code>audio and video</code>
